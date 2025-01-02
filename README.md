@@ -52,7 +52,7 @@ sudo pip3 install WoeUSB-ng
 ### 1. Install WoeUSB-ng's Build Dependencies
 #### Ubuntu/Debian
 ```shell
-sudo apt install git p7zip-full python3-pip python3-wxgtk4.0 grub2-common grub-pc-bin parted dosfstools ntfs-3g
+sudo apt install git p7zip-full python3-pip python3-wxgtk4.0 grub2-common grub-pc-bin parted dosfstools ntfs-3g libgtk-3-dev libgstreamer1.0-dev gstreamer1.0-plugins-base freeglut3-dev libwebkitgtk-6.0-4 libjpeg-dev libpng-dev libtiff6 libsdl2-2.0-0 libnotify4 libsm6 libcurl4-openssl-dev python-dev-is-python3
 ```
 #### Arch
 ```shell
