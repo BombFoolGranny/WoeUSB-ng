@@ -31,7 +31,7 @@ yay -S woeusb-ng
 ### For other distributions
 
 ### 1. Install WoeUSB-ng's Dependencies
-#### Ubuntu
+#### Ubuntu/Debian
 
 ```shell
 sudo apt install git p7zip-full python3-pip python3-wxgtk4.0 grub2-common grub-pc-bin parted dosfstools ntfs-3g
@@ -50,7 +50,7 @@ sudo pip3 install WoeUSB-ng
 ## Installation from source code
 
 ### 1. Install WoeUSB-ng's Build Dependencies
-#### Ubuntu
+#### Ubuntu/Debian
 ```shell
 sudo apt install git p7zip-full python3-pip python3-wxgtk4.0 grub2-common grub-pc-bin parted dosfstools ntfs-3g
 ```
